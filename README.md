@@ -3,4 +3,4 @@
 - 💼 Currently working at clickDealer
 - 🛠️ Experience: Node.js / TypeScript
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vimson&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vimson&show_icons=true&count_private=true)
