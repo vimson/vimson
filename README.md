@@ -4,8 +4,8 @@
 - 🛠️ Experience: Node.js / TypeScript
 - 🌱 Learning: Rust & Go (Linux apps focus)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vimson&show_icons=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)
+![trophy](https://github-profile-trophy.vercel.app/?username=vimson)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vimson)
